@@ -5,7 +5,7 @@
             "title": "Monopoly",
             "description": "Play Monopoly! Created by Sneakdoom",
             "url": "games/gamefiles/monoply/gameplayer.html",
-            "icon": "/games/icons/NOTFOUND.jpg"
+            "icon": "games/icons/NOTFOUND.png"
         },
         {
             "id": 2,
