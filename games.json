@@ -1,0 +1,32 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "title": "Monopoly",
+            "description": "Play Monopoly! Created by Sneakdoom",
+            "url": "games/gamefiles/monoply/gameplayer.html",
+            "icon": "/games/icons/NOTFOUND.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Crazy",
+            "description": "Become a crazy guy! Created by Bobson",
+            "url": "games/gamefiles/monoply/gameplayer.html",
+            "icon": "/games/icons/NOTFOUND.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Bobson Legend",
+            "description": "Be Bobson! Created by Bobson",
+            "url": "games/gamefiles/monoply/gameplayer.html",
+            "icon": "/games/icons/NOTFOUND.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Make a Cake",
+            "description": "Make a cake! Created by Cakelover",
+            "url": "games/gamefiles/monoply/gameplayer.html",
+            "icon": "/games/icons/NOTFOUND.jpg"
+        }
+    ]
+}
